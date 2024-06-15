@@ -26,7 +26,7 @@ redirect_from:
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2020.09 - now*, Pursing PhD degree, Spiking Neural Network and Event Camera, Advisor: [Xiaoyan Sun](). 
+- *2020.09 - now*, Pursing PhD degree, Spiking Neural Network and Event Camera, Advisor: [Xiaoyan Sun](http://staff.ustc.edu.cn/~xysun720/). 
 - *2016.09 - 2020.06*, Bachelor, Electronic Engineering, GPA: 4.18 / 5.00, Rank: **3**/ 128
 
 # 📝 Publications 
