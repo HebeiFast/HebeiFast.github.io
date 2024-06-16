@@ -64,7 +64,7 @@ Yansong Peng\*, **Hebei Li**\*, Yueyi Zhang, Xiaoyan Sun, Feng Wu, **Joint first
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2023</div><img src='images/eorformer.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2023</div><img src='images/Eorformer.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EoFormer: Edge-Oriented Transformer for Brain Tumor Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_32) 
