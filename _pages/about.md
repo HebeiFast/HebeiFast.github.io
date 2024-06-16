@@ -60,7 +60,7 @@ Yansong Peng\*, **Hebei Li**\*, Yueyi Zhang, Xiaoyan Sun, Feng Wu, **Joint first
 
 🖥️[**Code**](https://github.com/SNNresearch/Spiking-UNet) 📰[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0925231224004247)
 
-**Hebei Li**, Yueyi Zhang a, Zhiwei Xiong a, Xiaoyan Sun
+**Hebei Li**, Yueyi Zhang, Zhiwei Xiong, Xiaoyan Sun
 </div>
 </div>
 
